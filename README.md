@@ -4,10 +4,11 @@ Esta página pública detalla los estándares y compromisos que seguimos para pr
 
 ## Políticas y Prácticas
 
-- Cumplimos con todas las leyes internacionales y locales relacionadas con la protección infantil.
-- No permitimos que menores de 13 años usen la aplicación, para garantizar su seguridad y cumplir con las regulaciones vigentes.
-- Ofrecemos canales accesibles para que los usuarios puedan comunicarse con nosotros y reportar cualquier contenido o comportamiento inapropiado a través de correo electrónico u otras plataformas externas.
-- Colaboramos activamente con las autoridades y organismos competentes en la prevención y actuación contra la explotación infantil.
+- Cumplimos con todas las leyes internacionales y locales relacionadas con la protección infantil.  
+- No permitimos que menores de 13 años usen la aplicación, para garantizar su seguridad y cumplir con las regulaciones vigentes.  
+- Ofrecemos canales accesibles para que los usuarios puedan comunicarse con nosotros y reportar cualquier contenido o comportamiento inapropiado a través de correo electrónico u otras plataformas externas.  
+- Las denuncias recibidas por estos canales son revisadas por nuestro equipo de manera manual y, cuando corresponde, se remiten a las autoridades competentes para su seguimiento y actuación.  
+- Colaboramos activamente con las autoridades y organismos competentes en la prevención y actuación contra la explotación infantil.  
 - Implementamos medidas continuas de monitoreo y seguridad para proteger a los usuarios más vulnerables.
 
 ## Contacto
